@@ -1,0 +1,19 @@
+{
+  "name": "module_analysis",
+  "version": "1.0.0",
+  "description": "Rapid analysis node project dependent module",
+  "author": "flyking <flykingguo123@163.com>",
+  "main": "index.js",
+  "scripts": {
+    "lint": "lint script",
+    "test": "tap test.js --cov"
+  },
+  "repository": "http://github.com/flyking/module_package_analys",
+  "license": "ISC",
+  "devDependencies": {
+    
+  },
+  "files": [
+    "abbrev.js"
+  ]
+}
